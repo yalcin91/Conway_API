@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conway.XUnitTest", "Conway.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conway.RESTService", "Conway.RESTService\Conway.RESTService.csproj", "{9BC5CD1B-6DAD-4148-BE49-19A5730B2293}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "win form", "..\..\..\..\Conway_API-master\win form\win form.csproj", "{9CD438E9-E47C-42A9-8322-C8C66E0DEB45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winForm", "winForm\winForm.csproj", "{A9651C0A-55F1-4F46-B223-94B309503CA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +41,10 @@ Global
 		{9BC5CD1B-6DAD-4148-BE49-19A5730B2293}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BC5CD1B-6DAD-4148-BE49-19A5730B2293}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BC5CD1B-6DAD-4148-BE49-19A5730B2293}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9CD438E9-E47C-42A9-8322-C8C66E0DEB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9CD438E9-E47C-42A9-8322-C8C66E0DEB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9CD438E9-E47C-42A9-8322-C8C66E0DEB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9CD438E9-E47C-42A9-8322-C8C66E0DEB45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9651C0A-55F1-4F46-B223-94B309503CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9651C0A-55F1-4F46-B223-94B309503CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9651C0A-55F1-4F46-B223-94B309503CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9651C0A-55F1-4F46-B223-94B309503CA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
